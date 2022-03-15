@@ -1,0 +1,4 @@
+Épicos = Incremento sem muito detalhamento, ajuda a te direcionar nos caminhos que deve seguir.
+
+Estória = Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que
+deve acontecer e suas regras de negócio.

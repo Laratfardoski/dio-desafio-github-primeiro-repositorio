@@ -1,0 +1,8 @@
+SCRUM
+-> É um dos frameworks de gerenciamento de projetos agéis;
+-> Projetos usando equipes pequenas e multidiscipinares produzem os melhores resultados;
+-> Conversar mais e escrever menos;
+-> Demonstrar o software constantemente aos usuários e obter feedbacks constantes;
+-> Requisitos mudam ao longo do tempo;
+-> Aprender progressivamente com o uso do software.
+-> 3 pilares:Transparência, Adaptação, Inspeção. 

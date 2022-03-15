@@ -1,0 +1,6 @@
+-> Desenvolvido e entregue em partes menores (2 a 4 semanas);
+-> Melhor gerenciamento de riscos (redução de incertezas);
+-> Comprometimento, motivação e transparência da equipe (daily meeting);
+-> Maior valor para o negócio (priorização do backlog)
+-> Usuários envolvidos durante todo o ciclo;
+-> Aplicação das lições aprendidas (melhoria continua)

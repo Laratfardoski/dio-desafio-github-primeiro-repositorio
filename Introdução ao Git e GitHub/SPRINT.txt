@@ -1,0 +1,10 @@
+SPRINT
+-> Corrida, arrancada;
+-> É o principal evento da SCRUM;
+-> Duração de 30 dias corridos (ou menos);
+
+COMPOSIÇÃO DE UMA SPRINT
+-> Planejamento da Sprint;
+-> Reuniões diárias (Daily meeting);
+-> Revisão de SPRINT (Review)
+-> Retrospectiva da SPRINT
